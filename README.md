@@ -3,5 +3,3 @@
 
 ## My Space
 [![JuzHarii's GitHub stats](https://github-stats-extended.vercel.app/api?username=JuzHarii)](https://github.com/stats-organization/github-stats-extended)
-![JuzHarii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuzHarii&theme=tokyonight&hide_border=true)<br>
-![JuzHarii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuzHarii&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
