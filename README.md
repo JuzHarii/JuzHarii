@@ -5,7 +5,6 @@
 ## GitHub stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuzHarii&theme=omni&animation=load&name=JuzHarii)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuzHarii&theme=omni&animation=load&exclude=Jupyter+Notebook)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuzHarii&theme=omni&animation=load)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuzHarii&theme=omni&animation=load&utcOffset=7)
 
 ## Spotify
